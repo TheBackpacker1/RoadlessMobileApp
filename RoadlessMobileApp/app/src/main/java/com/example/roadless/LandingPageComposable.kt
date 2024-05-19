@@ -15,7 +15,7 @@ fun LandingPageComposable() {
         LazyColumn{
             item {
      Image(
-    painter =)
+    painter = )
             }
         }
 
